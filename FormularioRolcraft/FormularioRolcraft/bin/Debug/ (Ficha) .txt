@@ -1,0 +1,140 @@
+[color=#FFBF00][b]- Nombre: [/b][/color][COLOR=White][/COLOR] 
+[color=#FFBF00][b]- Raza: [/b][/color][COLOR=White][/COLOR] 
+[color=#FFBF00][b]- Edad: [/b][/color][COLOR=White][/COLOR] 
+[color=#FFBF00][b]- Alineamiento: [/b][/color][COLOR=White][/COLOR] 
+
+[color=#FFBF00][b]- Profesión: [/b][/color][COLOR=White][/COLOR] 
+[color=#FFBF00][b]- Estamento: [/b][/color][COLOR=White][/COLOR] 
+[color=#FFBF00][b]- Usuario: [/b][/color][COLOR=White][/COLOR] 
+
+[color=#FFBF00][b]- Puntos de Experiencia: [/b][/color][COLOR=White]0[/COLOR] 
+[color=#FFBF00][b]- Puntos de Experiencia Gastados: [/b][/color][COLOR=White]-60[/COLOR] 
+
+[IMG][/IMG]
+[color=#FFBF00][b]- Caracteristicas: [/b][/color]
+
+[color=#FFFF40]	- Fuerza: [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]	- Agilidad: [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]	- Aguante: [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]	- Inteligencia: [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]	- Espiritu: [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]	- Voluntad: [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]	- Percepcion: [/color][COLOR=White]0[/COLOR] 
+
+
+[color=#FFBF00][b]- Habilidades: [/b][/color]
+
+[color=#FFFF40][b]-COMBATE: [/b][/color]
+
+[color=#FFFF40]- Arcos(PER): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Armas Arrojadizas(PER): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Armas de Fuego(PER): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Armas de Asta(AGI): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Armas Ligeras(AGI): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Armas Medias(FUE): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Armas Pesadas(FUE): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Ballestas(PER): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Sin Armas(FUE/AGI): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Escudos(FUE): [/color][COLOR=White]0[/COLOR] 
+
+[color=#FFFF40][b]-FISICAS: [/b][/color]
+
+[color=#FFFF40]- Atletismo(AGI): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Advertir(PER): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Resistencia(AGU): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Montar(AGI): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Proezas(FUE): [/color][COLOR=White]0[/COLOR] 
+
+[color=#FFFF40][b]-CONOCIMIENTOS: [/b][/color]
+
+[color=#FFFF40]- Ciencia(INT): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Etiqueta y Heraldica(INT): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Flora y Fauna(INT): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Historia y Geografia(INT): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Humanidades(INT): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Medicina(INT): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Arte de la Guerra(INT): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Ciencias de lo Arcano(INT): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Ciencias de lo Prohibido(INT): [/color][COLOR=White]0[/COLOR] 
+[color=#FFFF40]- Supervivencia(INT): [/color][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Religión ([/COLOR][COLOR=White][/COLOR][COLOR=#FFFF40]) (INT):[/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Vínculo ([/COLOR][COLOR=White][/COLOR][COLOR=#FFFF40]) (INT):[/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Rúnico(INT):[/COLOR][COLOR=White]0[/COLOR] 
+
+[COLOR=#FFFF40][b]- MENTALES[/b][/COLOR] 
+
+[COLOR=#FFFF40]- Concentración (VOL): [/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Diplomacia (INT): [/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Empatía (ESP): [/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Frialdad (VOL): [/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Sensibilidad Mágica (ESP): [/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Subterfugio (INT): [/COLOR][COLOR=White]0[/COLOR] 
+
+
+[COLOR=#FFFF40][b]- ESPECIALIDADES[/b][/COLOR] 
+
+[COLOR=#FFFF40]- Arte ([/COLOR][COLOR=White][/COLOR][COLOR=#FFFF40]):[/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Disfrazarse (INT): [/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Manipular mecanismos (INT): [/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Juego de manos (AGI): [/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Oficio ([/COLOR][COLOR=White][/COLOR][COLOR=#FFFF40]):[/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Pilotar (INT): [/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Rastreo (PER): [/COLOR][COLOR=White]0[/COLOR] 
+[COLOR=#FFFF40]- Sigilo (AGI): [/COLOR][COLOR=White]0[/COLOR] 
+
+[b][color=#FFBF00]- Conocimientos: [/color][/b][spoiler]
+
+[color=#FFFF40]- Ciencia(INT): [/color][color=White]0[/color]
+[list] [*] Física: 0
+[*] Química: 0
+[*] Tecnología: 0[/list]
+[color=#FFFF40]- Etiqueta y Heraldica(INT): [/color][color=White]0[/color]
+[list] [*] Protocolo: 0
+[*] Nobleza: 0
+[*] Sociedad: 0[/list]
+[color=#FFFF40]- Naturaleza(INT): [/color][color=White]0[/color]
+[list] [*] Flora: 0
+[*] Fauna: 0
+[*] Geología: 0[/list]
+[color=#FFFF40]- Historia y Geografia(INT): [/color][color=White]0[/color]
+[list] [*] Historia: 0
+[*] Topografía: 0
+[*] Geografía regional: 0[/list]
+[color=#FFFF40]- Humanidades(INT): [/color][color=White]0[/color]
+[list] [*] Idiomas[-]: 0
+[*] Arte: 0
+[*] Cultura: 0[/list]
+[color=#FFFF40]- Medicina(INT): [/color][color=White]0[/color]
+[list] [*] Anatomía: 0
+[*] Psicología: 0
+[*] Patologías: 0[/list]
+[color=#FFFF40]- Arte de la Guerra(INT): [/color][color=White]0[/color]
+[list] [*] Estrategia: 0
+[*] Logística: 0
+[*] Armamento: 0[/list]
+[color=#FFFF40]- Supervivencia(INT): [/color][color=White]0[/color]
+[list] [*] Técnicas: 0
+[*] Seguridad: 0
+[*] Alimentación: 0[/list]
+[color=#FFFF40]- Navegación(INT): [/color][color=White]0[/color]
+[list][*] Teoría naval: 0
+[*] Embarcaciones: 0
+[*] Geografía marina: 0[/list]
+[/spoiler]
+
+
+[B][COLOR=#FFBF00]- Recompensas: [/COLOR][/B] 
+
+[B][COLOR=#FFBF00]- Recompensas por PX: [/COLOR][/B] 
+
+[B][COLOR=#FFBF00]- Posición: [/COLOR][/B] 
+
+[B][COLOR=#FFBF00]- Posesiones: [/COLOR][/B] 
+
+[B][COLOR=#FFBF00]- Contactos: [/COLOR][/B] 
+
+[B][COLOR=#FFBF00]- Trasfondos: [/COLOR][/B] 
+
+[B][COLOR=#FFBF00]- Ventajas/ Desventajas: [/COLOR][/B] 
+
+

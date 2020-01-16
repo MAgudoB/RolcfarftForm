@@ -1,0 +1,10 @@
+F:\Rolcraft\Formulario\FormularioRolcraft\FormularioRolcraft\bin\Debug\FormularioRolcraft.exe.config
+F:\Rolcraft\Formulario\FormularioRolcraft\FormularioRolcraft\bin\Debug\FormularioRolcraft.exe
+F:\Rolcraft\Formulario\FormularioRolcraft\FormularioRolcraft\bin\Debug\FormularioRolcraft.pdb
+F:\Rolcraft\Formulario\FormularioRolcraft\FormularioRolcraft\obj\Debug\FormularioRolcraft.csprojAssemblyReference.cache
+F:\Rolcraft\Formulario\FormularioRolcraft\FormularioRolcraft\obj\Debug\FormularioRolcraft.Form1.resources
+F:\Rolcraft\Formulario\FormularioRolcraft\FormularioRolcraft\obj\Debug\FormularioRolcraft.Properties.Resources.resources
+F:\Rolcraft\Formulario\FormularioRolcraft\FormularioRolcraft\obj\Debug\FormularioRolcraft.csproj.GenerateResource.cache
+F:\Rolcraft\Formulario\FormularioRolcraft\FormularioRolcraft\obj\Debug\FormularioRolcraft.csproj.CoreCompileInputs.cache
+F:\Rolcraft\Formulario\FormularioRolcraft\FormularioRolcraft\obj\Debug\FormularioRolcraft.exe
+F:\Rolcraft\Formulario\FormularioRolcraft\FormularioRolcraft\obj\Debug\FormularioRolcraft.pdb
